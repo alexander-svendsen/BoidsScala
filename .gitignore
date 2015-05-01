@@ -1,0 +1,25 @@
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# Scala
+*.class
+.scala_dependencies
+.worksheet
+
+# osx
+.DS_Store
+
+# sbt
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
